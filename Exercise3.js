@@ -41,7 +41,7 @@ console.log(wordExists(matrix, "tea"));
 console.log(wordExists1(matrix, "post"));
 
 console.log(
-  "------------------ \n solution using method Arrays \n------------------ "
+  "------------------ \n solution using Array methods \n------------------ "
 );
 
 function wordExists1(matrix, word) {
